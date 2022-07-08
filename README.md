@@ -7,6 +7,6 @@ This is a fullstack DApp NFT Marketplace built as a study project to learn more 
 Made with NodeJS, Hardhat, Solidity, ReactJS, NextJS and Vercel.
 
 ## Demo
+Check demo.gif....
 
-![Demo](https://github.com/SusanoGit/nft-marketplace/blob/main/demo.gif)
 
