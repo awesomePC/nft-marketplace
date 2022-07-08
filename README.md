@@ -8,5 +8,5 @@ Made with NodeJS, Hardhat, Solidity, ReactJS, NextJS and Vercel.
 
 ## Demo
 
-![Demo](https://github.com/SusanoGit/nft-marketplace/demo.gif)
+![Demo](https://github.com/SusanoGit/nft-marketplace/blob/main/demo.gif)
 
